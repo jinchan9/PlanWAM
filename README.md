@@ -1,2 +1,5 @@
 # PlanWAM
-PlanWAM: Planning-Shaped World-Action Model for End-to-End Autonomous Driving
+
+**PlanWAM: Planning-Shaped Future Representations for End-to-End Autonomous Driving**
+
+Code and models for PlanWAM will be released here soon.
